@@ -1,0 +1,8 @@
+# Example string
+s = "Hello, World!"
+
+# Convert the string to lowercase
+lowercase_string = s.lower()
+
+# Print the lowercase string
+print("Lowercase:", lowercase_string)
